@@ -9,7 +9,7 @@
 - 🤖 Built **AI Mirror** — an emotional mirror that reads your face & gives motivational quotes!
 - 🔭 Currently building: **VibeTalk** — a next-level mood-based motivational AI app!
 - ✍️ I love working on creative tech ideas that blend **AI + Emotions**
-- 📫 How to reach me: **snehakadiyala123@gmail.com**
+- 📫 How to reach me: **snhehalatha12@gmail.com**
 ---
 
 🛠️ **Languages & Tools I Know**
@@ -27,8 +27,8 @@
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehakadiyala&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehakadiyala&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehalatha7&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehalatha7&layout=compact&theme=radical" />
 </p>
 
 ---
