@@ -9,7 +9,19 @@
 - 🤖 Built **AI Mirror** — an emotional mirror that reads your face & gives motivational quotes!
 - 🔭 Currently building: **VibeTalk** — a next-level mood-based motivational AI app!
 - ✍️ I love working on creative tech ideas that blend **AI + Emotions**
-- 📫 How to reach me: **snhehalatha12@gmail.com**
+- 📫 Reach me at: **snhehalatha12@gmail.com**
+
+---
+
+🧩 **My Portfolio**  
+🚀 Check out my work, skills, and journey in detail:
+
+<p align="center">
+  <a href="https://snehalatha-7.lovable.app" target="_blank">
+    <img src="C:\Users\91863\Downloads\protfolio.jpg" alt="Snehalatha Portfolio" width="600" />
+  </a>
+</p>
+
 ---
 
 🛠️ **Languages & Tools I Know**
@@ -21,7 +33,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
 ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
-![Protfolio](https://github.com/Snehalatha7/snehalatha-7)
 
 ---
 
@@ -35,14 +46,16 @@
 ---
 
 🧠 **Projects That Define Me**
-- [Social Media Website](https://github.com/Snehalatha7/Social_media-website)
+
+- 🌐 [Social Media Website](https://github.com/Snehalatha7/Social_media-website)
 - 🔥 [AI Mirror App](https://github.com/Snehalatha7/aimirror) — Face emotion detector + motivational quotes
 - 🚀 VibeTalk (Coming Soon) — Mood scanner + voice assistant
 
 ---
 
-❤️ Let's Connect:
+💬 **Let’s Connect**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadiyala-snehalatha-269a36245/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:snhehalatha12@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/Snehalatha7)
 
-[![LinkedIn](https://www.linkedin.com/in/kadiyala-snehalatha-269a36245/)]
-
-
+---
