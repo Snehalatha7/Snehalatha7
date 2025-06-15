@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://snehalatha-7.lovable.app" target="_blank">
-    <img src="C:\Users\91863\Downloads\protfolio.jpg" alt="Snehalatha Portfolio" width="600" />
+    <img src="[C:\Users\91863\Downloads\protfolio.jpg](https://sdmntpreastus.oaiusercontent.com/files/00000000-af60-61f9-8f35-3e77606241f5/raw?se=2025-06-15T20%3A35%3A12Z&sp=r&sv=2024-08-04&sr=b&scid=3f8193b5-fa18-5386-bc4f-a86b9358b4d0&skoid=b64a43d9-3512-45c2-98b4-dea55d094240&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-15T19%3A28%3A10Z&ske=2025-06-16T19%3A28%3A10Z&sks=b&skv=2024-08-04&sig=r4r8u45hl7iSxSa/28AUTzmmVJtn5x9FhjI6Fehylr4%3D)" alt="Snehalatha Portfolio" width="600" />
   </a>
 </p>
 
