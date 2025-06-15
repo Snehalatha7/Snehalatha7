@@ -21,6 +21,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
 ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
+![Protfolio](https://github.com/Snehalatha7/snehalatha-7)
 
 ---
 
